@@ -203,6 +203,6 @@ h2 {
 .alto-contraste #galeria {
     background-color: var(--alto-contraste-fundo);
 }
-.alto-contraste .fundo-galeria {grid-row-start: var(--alto-contraste-link);
+.alto-contraste .fundo-galeria {=: var(--alto-contraste-link);
     background: none;
 }
