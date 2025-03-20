@@ -111,7 +111,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #fc007e;
 
 }
 
@@ -129,7 +129,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #7d00f1;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -174,7 +174,7 @@ h2 {
 }
 
 .alto-contraste{
-    background-color: var(--alto-contraste-fundo);
+    background-color: var(--alto-contraste-link);
     color: var(--alto-contraste-texto);
 }
 
@@ -203,6 +203,6 @@ h2 {
 .alto-contraste #galeria {
     background-color: var(--alto-contraste-fundo);
 }
-.alto-contraste .fundo-galeria {
+.alto-contraste .fundo-galeria {grid-row-start: var(--alto-contraste-link);
     background: none;
 }
