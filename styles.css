@@ -48,6 +48,14 @@ section {
     top: 18rem;
     width: 45rem;
     height: auto;
+    background-size: cover;
+    background-position: right;
+    border-radius: 80px;
+    width: 100%;
+    height: 606px;
+    padding: 40px;
+    margin: 0 auto;
+}
 }
 
 
@@ -126,7 +134,7 @@ h2 {
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(255, 0, 191, 0.164);
+    box-shadow: 0 0 10px rgba(240, 0, 180, 0.164);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }G
