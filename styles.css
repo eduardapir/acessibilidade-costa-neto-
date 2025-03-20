@@ -129,7 +129,7 @@ h2 {
     box-shadow: 0 0 10px rgba(255, 0, 191, 0.164);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
-}
+}G
 
 .formulario button {
     background-color: #9543cb;
@@ -138,7 +138,7 @@ h2 {
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #ea00ff;
 }
 .menu-acessibilidade{
     position: fixed;
